@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">chetvergovaKpr-22.103k17r</string>
+    <string name="title_activity_sign_in">signInActivity</string>
+    <string name="title_activity_sign_up">signUpActivity</string>
+    <string name="title_activity_start_screen">startScreenActivity</string>
+    <string name="title_activity_menus">MenusActivity</string>
+    <string name="title_activity_history">historyActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+</resources>
